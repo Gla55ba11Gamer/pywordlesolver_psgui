@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pywordlesolver_psgui"
+  site-url: "https://artyb.github.io/pywordlesolver_psgui"
+  description: "A very basic solution finder for Wordle type word games - a personal project in learning python packaging and development using nbdev and git ... ie newbie"
+  repo-branch: main
+  repo-url: "https://github.com/artyb/pywordlesolver_psgui"
